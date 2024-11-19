@@ -1,3 +1,5 @@
+# Penetration Testing of DVWA App
+
 This assignment will be completed using the Damn Vulnerable Web App (DVWA) which is already installed on your Ubuntu VM.  You can access it by opening up a web browser, load the web site that is running on your Ubuntu VM and then clicking “Damn Vulnerable Web App” under the “Additional items to hack” section.
 
 When you first load the DVWA site you will see a “Database Setup” page.  Everything is ready to go, you just need to scroll down to the bottom and click the “Create / Reset Database” button at the bottom.  Click the button and DVWA will complete the setup and take you to the DVWA login page.  The login information is:
